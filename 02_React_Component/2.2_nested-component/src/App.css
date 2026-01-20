@@ -1,0 +1,12 @@
+div {
+  width: 500px;
+  margin: auto;
+  border: 1px solid gray;
+  text-align: center;
+}
+
+div img {
+  margin-top: 20px;
+  border: 2px solid black;
+  border-radius: 50%;
+}

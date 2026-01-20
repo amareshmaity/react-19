@@ -6,6 +6,8 @@ import './App.css';
 // Each component can contain markup (JSX syntax.)
 function App() {
   return (
+
+    // Write the JSX code here within <>...</> or <div>...</div>
     <div>
       <h1>Hello React 👋</h1>
       <p>This is my first React app</p>
